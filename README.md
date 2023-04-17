@@ -3,7 +3,9 @@ This is a group project using Raspberry 4 + Camera Pi and OpenCV module to detec
 
 Attributor:
       1. Hai Le
+      
       2. Quoc Bao
+      
       3. Nhat Huy
 
 The aim of our project is to create a mini smart car that will be able to detect obstacles, track and automatically follow a line through a mounted camera. A full-fledged IoT communication will be established between the IoT node (the car) and the edge device through an MQTT broker. A cloud computing platform is also utilized through use of an AWS (Amazon Web Service) EC2 server. 
