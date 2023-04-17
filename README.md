@@ -2,7 +2,8 @@
 This is a group project using Raspberry 4 + Camera Pi and OpenCV module to detect a line, and control the car to follow the line.
 
 Attributor:
-      1. Hai Le
+
+      1. Hai Le 
       
       2. Quoc Bao
       
