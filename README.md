@@ -3,9 +3,9 @@ This is a group project using Raspberry 4 + Camera Pi and OpenCV module to detec
 
 Attributor:
 
-      1. Hai Le 
+      1. Hai Le https://github.com/HellCursed2u
       
-      2. Quoc Bao
+      2. Quoc Bao https://github.com/KallenVP
       
       3. Nhat Huy
 
